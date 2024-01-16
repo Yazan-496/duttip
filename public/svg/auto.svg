@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4654" data-name="Rectangle 4654" width="30" height="30" transform="translate(1)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_300" data-name="Mask Group 300" transform="translate(-1)" clip-path="url(#clip-path)">
+    <g id="steering-wheel-5" transform="translate(1)">
+      <circle id="Ellipse_303" data-name="Ellipse 303" cx="0.879" cy="0.879" r="0.879" transform="translate(14.121 15)" fill="#686868"/>
+      <path id="Path_21320" data-name="Path 21320" d="M15,0A15,15,0,1,0,30,15,15.032,15.032,0,0,0,15,0Zm0,3.574a11.444,11.444,0,0,1,11.291,9.668H23.243a6.909,6.909,0,0,1-5.037-2.128,4.4,4.4,0,0,0-6.41,0,6.909,6.909,0,0,1-5.038,2.128H3.709A11.444,11.444,0,0,1,15,3.574Zm0,14.941a2.637,2.637,0,1,1,2.637-2.637A2.64,2.64,0,0,1,15,18.516Zm-10.639.65a6.939,6.939,0,0,1,2.729-.65A5.278,5.278,0,0,1,12.3,24.579h0a5.255,5.255,0,0,1-.416,1.415A11.478,11.478,0,0,1,4.361,19.166Zm13.755,6.828a5.242,5.242,0,0,1-.417-1.415h0a5.28,5.28,0,0,1,6.466-5.914,12.84,12.84,0,0,1,1.477.5A11.478,11.478,0,0,1,18.115,25.994Z" fill="#686868"/>
+    </g>
+  </g>
+</svg>
